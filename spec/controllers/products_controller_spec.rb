@@ -36,7 +36,7 @@ RSpec.describe ProductsController, type: :controller do
   end
 
   describe "GET show" do
-  
+
   end
 
 end
